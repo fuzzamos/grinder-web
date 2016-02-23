@@ -294,7 +294,7 @@
 					echo "<ul>";
 					echo "<li><a href='system.php'>System</a></li>";
 					echo "<li><a href='crashes.php'>Crashes</a></li>";
-					echo "<li><a href='fuzzers.php'>Fuzzers</a></li>";
+					echo "<li><a href='stats.php'>Stats</a></li>";
 					if( user_isadministrator() )
 						echo "<li><a href='settings.php'>Settings</a></li>";
 					echo "<li><a href='account.php'>My Account</a></li>";
